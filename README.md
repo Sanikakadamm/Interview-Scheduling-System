@@ -1,2 +1,13 @@
-# Interview-Scheduling-System
-An ASP.NET Web Forms application for managing candidate interview scheduling. Features include candidate registration, fresher/experienced workflow, resume upload, slot booking with availability limits, and automated interview management.
+## Features
+- Candidate registration form
+- Fresher / Experienced workflow
+- Resume upload
+- Slot booking system
+- Max 2 candidates per slot
+- Email notifications (planned)
+
+## Tech Stack
+- ASP.NET Web Forms
+- C#
+- SQL Server
+- Bootstrap
